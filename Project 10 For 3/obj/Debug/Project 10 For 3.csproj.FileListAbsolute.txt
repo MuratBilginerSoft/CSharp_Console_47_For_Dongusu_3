@@ -1,0 +1,6 @@
+C:\Users\mrt_b\source\repos\Project 10 For 3\Project 10 For 3\bin\Debug\Project 10 For 3.exe.config
+C:\Users\mrt_b\source\repos\Project 10 For 3\Project 10 For 3\bin\Debug\Project 10 For 3.exe
+C:\Users\mrt_b\source\repos\Project 10 For 3\Project 10 For 3\bin\Debug\Project 10 For 3.pdb
+C:\Users\mrt_b\source\repos\Project 10 For 3\Project 10 For 3\obj\Debug\Project 10 For 3.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 10 For 3\Project 10 For 3\obj\Debug\Project 10 For 3.exe
+C:\Users\mrt_b\source\repos\Project 10 For 3\Project 10 For 3\obj\Debug\Project 10 For 3.pdb
